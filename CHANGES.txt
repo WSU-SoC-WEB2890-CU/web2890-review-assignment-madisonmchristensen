@@ -1,1 +1,13 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+
+1. Changed text-end to mx-auto on my images so they'd be centered
+2. Changed the squiggly line to be the shape I wanted with getwave.io
+3. Changed my images to fit my color scheme and to fit the sections in my page with manypixels.co
+4. Added a Hobbies section and used cards in a grid. 
+5. Added a "My Why" section
+6. Added a My Skills section
+7. Changed the supported companies to a section that can show what software I use to create websites, added in different images for each.
+8. I added a bootstrap icon of a pencil above "Design" in my "My Rad Tech Skills" section. 
+9. Linked the navbar to the different sections on my website. 
+10. Filled out the footer and added several links to it. 
+11. Changed the color scheme so it's matching. Changed the colors in the Sass file for the gradient and for the icons in the footer. 
